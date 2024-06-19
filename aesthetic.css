@@ -1,0 +1,72 @@
+/* Body background color */
+body {
+    background-color: #ffcc00; 
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #ff6600; 
+    color: white; 
+    border-radius: 10px;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.navbar-dark {
+    background-color: red;
+}
+
+.nav-link {
+    color: black; 
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+    height: 300px;
+}
+
+
+/* Container styles */
+.container {
+    padding: 20px; 
+    background-color: white; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px #ff6f00; 
+}
+
+.container-fluid {
+    background-color: #ffa500;
+    height: 50px;
+    border-radius: 10px;
+}
+
+/* Card styles */
+.card {
+    background-color: #ff6600; 
+    color: white; 
+}
+
+.sign-out-btn {
+    background-color: red;
+    color: black; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    border-radius: 10px; 
+}
+  
+.sign-out-btn:hover {
+    color: white;
+    background-color: darkred; 
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
+}
+
+.bg-orange {
+    background-color: #ffa500;
+}
+
+.chain-name-label {
+    color: black;
+}
